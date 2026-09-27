@@ -3,6 +3,9 @@
 > 一个单文件 HTML 就能跑起来的阅读器，和一个 3MB 的 Windows 桌面壳。
 > 不依赖账号、不上云、数据永远在自己手里。
 
+<img width="1280" height="800" alt="00-home_37c0a0d9" src="https://github.com/user-attachments/assets/9ca193ed-8d37-4a69-8ebe-95d11354a72f" />
+
+
 Paperkite（纸鸢）支持 15 种电子书格式、本地优先存储、AI 能力可选接入、朗读可离线可用。它有两种形态，同一套前端：
 
 - **HTML 版**（`paperkite.html`）：单文件，浏览器打开即用，可离线保存随身携带
@@ -21,6 +24,12 @@ Paperkite（纸鸢）支持 15 种电子书格式、本地优先存储、AI 能�
 - **朗读（TTS）**：Edge 在线 / 小米 MiMo / 浏览器离线三引擎自动切换；句子切分、角色朗读、音频缓存、插件引擎
 - **扫描版 PDF OCR**：文本层为空时按需加载 Tesseract.js（平时零依赖）
 - **更多**：OPDS 订阅、加密导出、番茄钟、环境声、命令面板、PIN 锁、插件脚本……
+
+<img width="1280" height="800" alt="01-shelf_ff797556" src="https://github.com/user-attachments/assets/98474759-a6e5-4930-b11a-46a1a4a7138f" />
+<img width="1280" height="800" alt="03-settings_07e956d6" src="https://github.com/user-attachments/assets/c59a047b-6236-4026-9fac-561c87ed72ae" />
+<img width="1280" height="800" alt="02-reader_8a30ab4f" src="https://github.com/user-attachments/assets/cfee3cf0-f5c1-4d01-88d9-4c49454631c6" />
+<img width="1280" height="800" alt="05-ai-chat_6536a5bb" src="https://github.com/user-attachments/assets/38b0885b-ccfc-49ea-8032-88eed1d6f8e6" />
+
 
 ## 快速开始
 
